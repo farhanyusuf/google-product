@@ -5,7 +5,7 @@ NIM   : 13519202
 
 ## What is Google BigQuery?
 
-![](farhanyusuf.github.com/repository/google-product/Image/GoogleBigQuery.png)
+![GoogleBiqQuery](https://user-images.githubusercontent.com/68521556/97081152-a786d100-162a-11eb-872f-414756dd8760.png)
 
 
 Storing and querying massive datasets can be time consuming and expensive without the right hardware and infrastructure. BigQuery is an enterprise data warehouse that solves this problem by enabling super-fast SQL queries using the processing power of Google's infrastructure. It can easily store exa-byte of data, as well as run frequent queries over petabytes of it. Everything is encrypted, durable, and highly available. And these are some of the features that make BigQuery really unique.  
@@ -15,9 +15,9 @@ Storing and querying massive datasets can be time consuming and expensive withou
 -High speed in-memory BI engine for instant interactive dashboards.  
 
 How is Google Cloud putting all of this together to build our vision of what a data warehouse of the future should look like?  
-### -Storage and compute  
+### Storage and compute  
 A data warehouse should handle storage and compute. And by that, the ability to collect all the data we need to have together and the ability to analyze it and combine it at any scale.  
-### -Serverless  
+### Serverless  
 To pull this off, we really want our data warehouse to be truly serverless. We get to decide on our data and the queries we want to run on it, while BiqQuery take care of running everything else behind the scenes. And what's the magic behind the scenes? BigQuery's architecture that separates storage from compute and a petabyte network connecting both sides.  
 ### Real-time  
 A modern data warehouse should be able to work with real time data.  
